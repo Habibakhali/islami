@@ -1,0 +1,20 @@
+{
+  "app_title": "إسلامي",
+  "quran_tab": "قرآن",
+  "hadeth_tab": "حديث",
+  "sebha_tab": "سبحة",
+  "radio_tab": "إذاعة",
+  "setting_tab": "الإعدادات",
+  "soura_name": "إسم السورة",
+  "hadeth_name": "أحاديث",
+  "radio_quran": "إذاعة القران الكريم",
+  "language": "اللغة",
+  "currentlang": "الإنجليزية",
+  "arabic": "العربية",
+  "no_tasbeh": "عدد التسبيحات",
+  "theme": "المظهر",
+  "light": "فاتح",
+  "dark": "غامق"
+
+
+}
